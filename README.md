@@ -22,7 +22,7 @@ Abaixo está o prompt final usado e a imagem gerada pela IA.
 > "Uma foto fotorrealista, homem de 30 e poucos anos, engenheiro de software, focado, programando em um notebook em um home office com um monitor externo. O monitor mostra código Java. A luz é natural vindo de uma janela."
 
 ### Imagem Gerada:
-![Imagem de um desenvolvedor gerada por IA](imagem-gerada.png)
+![Imagem de um desenvolvedor gerada por IA](Engenheiro de Software Programando.jpeg)
 
 ## 💭 Reflexão (Opcional)
 O maior desafio foi fazer a IA criar uma imagem que parecesse "real" e não uma foto de banco de imagem. Os detalhes no prompt foram essenciais. É impressionante como a IA consegue criar detalhes realistas como a iluminação e o reflexo nos óculos, tornando difícil distinguir o real do gerado.
